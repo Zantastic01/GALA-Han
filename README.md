@@ -14,3 +14,4 @@ Using the Millennium Falcon is a very special task. By pressing the START button
 ## _In GAME FOOTAGE_
 <iframe width="560" height="315" src="https://www.youtube.com/embed/woDy9TPTPug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+![alt text](![alt text](https://raw.githubusercontent.com/Zantastic01/GALA-Han/master/end.jpg "The mission is now in your hands, enjoy and MAY THE FORCE BE WITH YOU")
