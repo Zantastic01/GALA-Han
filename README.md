@@ -7,7 +7,7 @@ Han Solo and Chewbecca travels into a galaxy far, far, far, FAR away. THEY enter
 Using the Millennium Falcon is a very special task. By pressing the START button, it gets the falcon ready to roll. To move the falcon use the left analog stick on the xbox controller. To have Chewbacca shot misslies, press the a button. When the Han's ship takes too much damage press the BACK button to restart. 
 
 
-![alt text](https://raw.githubusercontent.com/Zantastic01/GALA-Han/master/controller_layout.png "CONTROLLER")
+![alt text](https://raw.githubusercontent.com/Zantastic01/GALA-Han/master/controller_layout.jpg "CONTROLLER")
 
 
 
