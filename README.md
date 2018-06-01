@@ -26,7 +26,6 @@ Using the Millennium Falcon is a very special task. By pressing the START button
 ### The mission is now in your hands, enjoy and **MAY THE FORCE BE WITH YOU**
 
 ## DOWNLOAD HERE
-https://github.com/Zantastic01/GALA-Han/releases
-
+[I'm an inline-style link](https://github.com/Zantastic01/GALA-Han/releases)
 
 ![alt text](https://raw.githubusercontent.com/Zantastic01/GALA-Han/master/end2.jpg)
