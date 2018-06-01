@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/Zantastic01/GALA-Han/master/Title.PNG)
+
 # **GALA-HAN**
 Han Solo and Chewbecca travels into a galaxy far, far, far, FAR away. THEY enter galaga in a mission to save the galaxy. With the Millennium Falcon having not much health. Han and chewie must elimnate waves of alien and captured ships. In each wave the sgain more health while the falcon remains with the same health.IN ORDER TO SURVIVE FOR AS LONG AS YOU CAN >>>>>> **YOU MUST BE THE HAN SOLO.** 
 
