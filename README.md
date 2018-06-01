@@ -1,35 +1,8 @@
-**#GALA-HAN**
+# **GALA-HAN**
 Han Solo and chewie travels into a galaxy far, far, far, FAR away. THEY enter galaga in mission to save the galaxy. IN ORDER TO SURVIVE FOR AS LONG AS YOU CAN >>>>>> **YOU MUST BE THE HAN SOLO.** 
 
-_##CONTROLLING THE FALCON_
+## _CONTROLLING THE FALCON_
 Using the Millennium Falcon is a very special task. To move the falcon use the left analog stick on the xbox controller. To have Chewbacca shot misslies, press the a button. 
 ![alt text](https://raw.githubusercontent.com/Zantastic01/GALA-Han/master/controller_layout.png "CONTROLLER")
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zantastic01/GALA-Han/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
