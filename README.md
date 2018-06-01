@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+#**GALA-HAN**
+Han Solo and chewie travels into a galaxy far, far, far, FAR away. THEY enter galaga in mission to save the galaxy. IN ORDER TO SURVIVE for as long as you can FOR AS LONG AS YOU CAN >>>>>> **YOU MUST BE THE HAN SOLO.** 
 
-You can use the [editor on GitHub](https://github.com/Zantastic01/GALA-Han/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_##CONTROLLING THE FALCON_
+Using the Millennium Falcon is a very special task. To move the falcon use the left analog stick on the xbox controller. To have Chewbacca shot misslies, press the a button. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
